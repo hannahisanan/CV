@@ -1,0 +1,198 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Varela Round', sans-serif;
+}
+
+h1 {
+    background-color: #f0e9e9;
+  margin-top: 0;
+  line-height: 2;
+}
+
+h2 {
+  color: #aa7070;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 250%;
+}
+
+h3 {
+  color: #c19191;
+}
+
+p {
+  color: #454955;
+  line-height: 2;
+}
+
+
+/*----------------CLASS CONTAINER----------------*/
+.top-container {
+  background-color: #f0e9e9;
+}
+
+.mid-container {
+  background-color: #f0e9e9;;
+}
+
+.bot-container {
+  background-color: #f0e9e9;
+  padding-top: 6%;
+
+}
+
+.hi {
+  color: #c19191;
+  font-size: 150%;
+}
+
+.h1{
+  background-size: auto;
+}
+
+.h2 {
+  color: #c19191;
+  font-family: sans-serif;
+  font-size: 25px;
+  margin: 20px auto 0px auto;
+  font-weight: normal;
+}
+
+.imhannah {
+  position: static;
+  top: 50%;
+}
+
+.middle-container {
+  padding-top: 7%;
+  line-height: 2;
+}
+
+.hr1 {
+  position: relative;
+  display: inline-block;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  border-top: 5px dotted gray;
+  opacity: 0.25;
+  width: 2%;
+}
+
+.cloud1 {
+  position: relative;
+  top: 200px;
+  left: 400px;
+  width: 200px;
+  height: 120px;
+}
+
+.cloud2 {
+  position: relative;
+  bottom: 300px;
+  right: 400px;
+  width: 200px;
+  height: 120px;
+}
+
+.hannahbee{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: -123px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.skill1 {
+  width: 20%;
+  opacity: 0.5;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill2 {
+  width: 20%;
+  opacity: 0.5;
+  float: right;
+  margin-left: 30px;
+}
+
+.skill3 {
+  width: 20%;
+  opacity: 0.5;
+  float: left;
+  margin-right: 30px;
+}
+
+.intro {
+  margin: auto;
+  width: 30%;
+}
+
+.hr2 {
+  position: relative;
+  display: inline-block;
+  margin-top: 3%;
+  margin-bottom: 3%;
+  border-top: 5px dotted gray;
+  opacity: 0.25;
+  width: 2%;
+}
+
+.contact-me {
+  margin: 40px auto 60px;
+}
+
+.contactmsg {
+  margin: 40px auto 60px;
+  width: 30%;
+}
+
+.btn {
+  -webkit-border-radius: 4;
+  -moz-border-radius: 4;
+  border-radius: 4px;
+  font-family: 'Varela Round', sans-serif;
+  color: #ffffff;
+  font-size: 18px;
+  background: #8b5d5d;
+  padding: 12px 21px 13px 21px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #aa7070;
+  background-image: -webkit-linear-gradient(top, #aa7070, #aa7070);
+  background-image: -moz-linear-gradient(top, #aa7070, #aa7070);
+  background-image: -ms-linear-gradient(top, #aa7070, #aa7070);
+  background-image: -o-linear-gradient(top, #aa7070, #aa7070);
+  background-image: linear-gradient(to bottom, #aa7070, #aa7070);
+  text-decoration: none;
+}
+
+.bottom-container {
+  background-color: #f0e9e9;
+  padding: 50px 0 20px;
+}
+
+a {
+  color: #aa7070;
+  font-family: 'Varela Round', sans-serif;
+  margin: 10px 30px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #8b5d5d;
+}
+
+.copyright {
+  color: #aa7070;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
