@@ -43,7 +43,11 @@ p {
 .bot-container {
   background-color: #f0e9e9;
   padding-top: 6%;
+}
 
+.port-image {
+  width: 10%;
+  opacity: 0.60;
 }
 
 .hi {
@@ -81,29 +85,6 @@ p {
   border-top: 5px dotted gray;
   opacity: 0.25;
   width: 2%;
-}
-
-.cloud1 {
-  position: relative;
-  top: 200px;
-  left: 400px;
-  width: 200px;
-  height: 120px;
-}
-
-.cloud2 {
-  position: relative;
-  bottom: 300px;
-  right: 400px;
-  width: 200px;
-  height: 120px;
-}
-
-.hannahbee{
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: -123px;
 }
 
 .skill-row {
