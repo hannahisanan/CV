@@ -94,26 +94,104 @@ p {
   line-height: 2;
 }
 
-.skill1 {
-  width: 20%;
-  opacity: 0.5;
+.ig1 {
+  width: 30%;
+  opacity: 0.85;
   float: left;
-  margin-right: 30px;
+  margin-right: 45px;
 }
 
-.skill2 {
-  width: 20%;
-  opacity: 0.5;
+.ig2 {
+  width: 30%;
+  opacity: 0.85;
   float: right;
   margin-left: 30px;
 }
 
-.skill3 {
-  width: 20%;
-  opacity: 0.5;
+.ig3 {
+  width: 30%;
+  opacity: 0.85;
   float: left;
   margin-right: 30px;
 }
+
+.ec1 {
+  width: 30%;
+  opacity: 0.85;
+  float: left;
+  margin-right: 45px;
+}
+
+.ec2 {
+  width: 30%;
+  opacity: 0.85;
+  float: right;
+  margin-right: 45px;
+}
+
+.ph1 {
+  width: 30%;
+  opacity: 0.85;
+}
+
+.ph2 {
+  width: 30%;
+  opacity: 0.85;
+}
+.ph3 {
+  width: 30%;
+  opacity: 0.85;
+}
+.ph4 {
+  width: 30%;
+  opacity: 0.85;
+}
+.ph5 {
+  width: 30%;
+  opacity: 0.85;
+}
+.ph6 {
+  width: 30%;
+  opacity: 0.85;
+}
+.ph7 {
+  width: 30%;
+  opacity: 0.85;
+}
+.ph8 {
+  width: 30%;
+  opacity: 0.85;
+}
+.ph9 {
+  width: 30%;
+  opacity: 0.85;
+}
+.ph10 {
+  width: 30%;
+  opacity: 0.85;
+}
+.ph11 {
+  width: 30%;
+  opacity: 0.85;
+}
+.ph12 {
+  width: 30%;
+  opacity: 0.85;
+}
+.ph13 {
+  width: 30%;
+  opacity: 0.85;
+}
+.ph14 {
+  width: 30%;
+  opacity: 0.85;
+}
+.ph15 {
+  width: 30%;
+  opacity: 0.85;
+}
+
+
 
 .intro {
   margin: auto;
